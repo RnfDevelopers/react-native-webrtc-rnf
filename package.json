@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webrtc-simple",
+  "name": "react-native-webrtc-rnf",
   "version": "1.4.1",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "react-native-webrtc-simple.podspec",
+    "react-native-webrtc-rnf.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
@@ -36,16 +36,16 @@
     "elements",
     "components",
     "webrtc uikit",
-    "webrtc simple",
+    "webrtc rnf",
     "video call"
   ],
-  "repository": "https://github.com/hoaphantn7604/react-native-webrtc-simple",
-  "author": "Hoa Phan <hoaphantn7604@gmail.com> (https://github.com/hoaphantn7604)",
+  "repository": "https://github.com/RnfDevelopers/react-native-webrtc-rnf",
+  "author": "RnfDevelopers <developers@resourcii.com> (https://github.com/RnfDevelopers/react-native-webrtc-rnf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoaphantn7604/react-native-webrtc-simple/issues"
+    "url": "https://github.com/RnfDevelopers/react-native-webrtc-rnf/issues"
   },
-  "homepage": "https://github.com/hoaphantn7604/react-native-webrtc-simple#readme",
+  "homepage": "https://github.com/RnfDevelopers/react-native-webrtc-rnf#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

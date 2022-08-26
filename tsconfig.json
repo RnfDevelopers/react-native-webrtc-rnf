@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-webrtc-simple": ["./src/index"]
+      "react-native-webrtc-rnf": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
